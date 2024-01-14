@@ -1,0 +1,737 @@
+{
+	"start": {
+		"ru": "Привет",
+		"en": "Hello",
+		"ro": "Salut"
+	},
+	"language": {
+		"ru": "🌎 Пожалуйста, выберите предпочитаемый язык:",
+		"en": "🌎 Please choose your preferred language:",
+		"ro": "🌎 Vă rugăm să alegeți limba preferată:"
+	},
+	"about": {
+		"ru": "<b>🗂 О нас 🗂</b>\n\n\n💨 Smoke Lab - это источник всего, что связано с вейпингом. Мы гордимся тем, что предлагаем самый разнообразный ассортимент никотиновых жидкостей во всех возможных вкусовых направлениях - от свежих фруктовых композиций до сладких десертных вкусов и освежающих ментолов.\n\n✅ Наши эксперты тщательно отбирают продукты от ведущих производителей, чтобы ты мог насладиться самыми высококачественными и яркими вкусами.\n\n📍 Наши предложения не ограничивается только никотиновыми жидкостями. Мы также предлагаем широкий выбор одноразовых сигарет, идеальных для тех, кто ищет удобство и мобильность. Наши одноразовые сигареты обеспечивают интенсивный вкус, густую пару и удовлетворяющую дозу никотина, все в одном удобном и стильном устройстве.\n\n🤫 Канал <a href='https://t.me/elfbarmoldova1'>Smoke Lab</a> - это не только место, где ты можешь найти самые лучшие никотиновые жидкости и одноразовые сигареты, но и источник полезной информации и советов для вейперов всех уровней. Мы регулярно обновляемся новыми обзорами, инструкциями по использованию и вейпинговыми советами, чтобы помочь тебе получить максимальное удовольствие от вейпинга.\n\n\nПо любым вопросам пишите @xxx\n",
+		"en": "<b>🗂 About Us 🗂</b>\n\n\n💨 Smoke Lab is the source for everything related to vaping. We pride ourselves on offering the most diverse range of nicotine liquids in every possible flavor profile - from fresh fruit flavors to sweet dessert flavors and refreshing menthols.\n\n✅ Our experts carefully select products from leading manufacturers so that you can enjoy the highest quality and brightest tastes.\n\n📍 Our offer is not limited to nicotine liquids. We also offer a wide range of disposable cigarettes ideal for those looking for convenience and portability. Our disposable cigarettes deliver intense flavor, rich vapor and a satisfying dose of nicotine all in one convenient and stylish device.\n\n🤫 Channel <a href='https://t.me/elfbarmoldova1'>Smoke Lab</a> is not only a place where you can find the best nicotine liquids and disposable cigarettes, but also a source of useful information and tips for vapers of all levels. We update regularly with new reviews, how-to instructions and vaping tips to help you get the most out of your vaping experience.\n\n\nAny questions, email @xxx\n",
+		"ro": "<b>🗂 Despre Noi 🗂</b>\n\n\n💨 Smoke Lab este sursa pentru tot ceea ce este legat de vaping. Ne mândrim să oferim cea mai diversă gamă de lichide cu nicotină în fiecare profil de aromă posibil - de la arome de fructe proaspete până la arome dulci de desert și mentol răcoritor.\n\n✅ Experții noștri selectează cu atenție produse de la producători de top, astfel încât să vă puteți bucura de cea mai înaltă calitate și cele mai strălucitoare gusturi.\n\n📍 Oferta noastră nu se limitează la lichide cu nicotină. De asemenea, oferim o gamă largă de țigări de unică folosință, ideale pentru cei care caută confort și portabilitate. Țigările noastre de unică folosință oferă o aromă intensă, vapori bogati și o doză satisfăcătoare de nicotină, totul într-un singur dispozitiv convenabil și elegant.\n\n🤫 Canalul <a href='https://t.me/elfbarmoldova1'>Smoke Lab</a> nu este doar un loc în care poți găsi cele mai bune lichide cu nicotină și țigări de unică folosință, ci și o sursă de informații utile și sfaturi pentru vaporii de toate nivelurile. Actualizăm în mod regulat cu noi recenzii, instrucțiuni de utilizare și sfaturi de vaping pentru a vă ajuta să profitați la maximum de experiența dvs. de vaping.\n\n\nOrice întrebări, trimiteți un e-mail la @xxx\n"
+	},
+	"input_number": {
+		"ru": "❌ Неверный Ввод. Пожалуйста, введите допустимое числовое значение.",
+		"en": "❌ Invalid input. Please enter a valid numeric value.",
+		"ro": "❌ Intrare nevalidă. Vă rugăm să introduceți o valoare numerică validă."
+	},
+	"invalid_color_code": {
+		"ru": "❌ Неверный Ввод. Введите цвет в шестнадцатеричном коде цвета с символом #.",
+		"en": "❌ Invalid Input. Please enter color in hexadecimal color code with a # symbol.",
+		"ro": "❌ Intrare nevalidă. Vă rugăm să introduceți culoarea în codul de culoare hexazecimal cu simbolul #."
+	},
+	"again": {
+		"ru": "🔄 Повторите снова",
+		"en": "🔄 Please try again",
+		"ro": "🔄 Vă rugăm să încercați din nou"
+	},
+	"edit_field": {
+		"ru": "Выберите поле, которое вы хотите отредактировать:",
+		"en": "Select the field you want to edit:",
+		"ro": "Selectați câmpul pe care doriți să-l editați:"
+	},
+	"edit_new": {
+		"ru": "✏️ Введите новое значение:",
+		"en": "✏️ Enter the new value:",
+		"ro": "✏️ Introduceți noua valoare:"
+	},
+	"edit_params": {
+		"ru": "❔ Не найден\n",
+		"en": "❔ Not found\n",
+		"ro": "❔ Nu a fost găsit\n"
+	},
+
+	"manufacturer_name": {
+		"ru": "🚧 Производитель",
+		"en": "🚧 Manufacturer",
+		"ro": "🚧 Producător"
+	},
+	"manufacturer_country": {
+		"ru": "🌎 Страна производителя",
+		"en": "🌎 Manufacturer's country",
+		"ro": "🌎 Țara producătorului"
+	},
+	"manufacturer_description": {
+		"ru": "📝 Описание производителя",
+		"en": "📝 Manufacturer's Description",
+		"ro": "📝 Descrierea producatorului"
+	},
+
+	"user_username": {
+		"ru": "👤",
+		"en": "👤",
+		"ro": "👤"
+	},
+	"user_name": {
+		"ru": "👤 Имя",
+		"en": "👤 Name",
+		"ro": "👤 Nume"
+	},
+	"user_created": {
+		"ru": "🗓 Профиль создан",
+		"en": "🗓 Profile created",
+		"ro": "🗓 Profil creat"
+	},
+	"user_email": {
+		"ru": "✉️",
+		"en": "✉️",
+		"ro": "✉️"
+	},
+	"user_language": {
+		"ru": "🌎 Язык (код)",
+		"en": "🌎 Language (code)",
+		"ro": "🌎 Limba (cod)"
+	},
+	"user_phone": {
+		"ru": "☎️ Телефон",
+		"en": "☎️ Phone",
+		"ro": "☎️ Telefon"
+	},
+	"user_address": {
+		"ru": "🏠 Адресс",
+		"en": "🏠 Address",
+		"ro": "🏠 Adresă"
+	},
+	"user_points": {
+		"ru": "💎 Поинты",
+		"en": "💎 Points",
+		"ro": "💎 Puncte"
+	},
+	"user_purchase_amount": {
+		"ru": "📦 Количество покупок",
+		"en": "📦 Number of purchases",
+		"ro": "📦 Numărul de achiziții"
+	},
+
+	"order_none": {
+		"ru": "💤 У вас нет заказов.",
+		"en": "💤 You don't have any orders.",
+		"ro": "💤 Nu aveți comenzi."
+	},
+	"order_show": {
+		"ru": "📦 <b>Ваш Заказ:</b>",
+		"en": "📦 <b>Your order:</b>",
+		"ro": "📦 <b>Comanda dvs.:</b>"
+	},
+	"order_created": {
+		"ru": "🗓 Заказ создан",
+		"en": "🗓 Order created",
+		"ro": "🗓 Comanda creată"
+	},
+	"order_promo": {
+		"ru": "🎟️ Промокод:",
+		"en": "🎟️ Promo code:",
+		"ro": "🎟️ Cod promoțional:"
+	},
+	"order_points": {
+		"ru": "💎 Использовано поинтов:",
+		"en": "💎 Points used:",
+		"ro": "💎 Punctele folosite:"
+	},
+	"order_points_earned": {
+		"ru": "💎 Получено поинтов:",
+		"en": "💎 Points received:",
+		"ro": "💎 Puncte primite:"
+	},
+	"order_price": {
+		"ru": "💰 Итоговая цена:",
+		"en": "💰 Total price:",
+		"ro": "💰 Preț total:"
+	},
+	"order_gift": {
+		"ru": "🎁 +1 в подарок 🎉",
+		"en": "🎁 +1 as a gift 🎉",
+		"ro": "🎁 +1 ca cadou 🎉"
+	},
+	"order_status": {
+		"ru": "🏷 Статус заказа",
+		"en": "🏷 Order status",
+		"ro": "🏷 Starea comenzii"
+	},
+	"status_new": {
+		"ru": "🔍 Выберите новый статус заказа:",
+		"en": "🔍 Select a new order status:",
+		"ro": "🔍 Selectați o nouă stare de comandă:"
+	},
+
+	"admin": {
+		"ru": "⚜️ <b>Меню Администратора</b> ⚜️",
+		"en": "⚜️ <b>Admin Menu</b> ⚜️",
+		"ro": "⚜️ <b>Meniu Administrator</b> ⚜️"
+	},
+	"stock_empty": {
+		"ru": "💤 Товары отсутствуют на складе",
+		"en": "💤 Items are not in stock",
+		"ro": "💤 Produsele nu sunt în stoc"
+	},
+	"stock_list": {
+		"ru": "📜 <b>Список товаров в наличии:</b>\n\n",
+		"en": "📜 <b>List of available items:</b>\n\n",
+		"ro": "📜 <b>Lista de produse disponibile:</b>\n\n"
+	},
+	"admin_empty": {
+		"ru": "💤 Нет других администраторов",
+		"en": "💤 No other administrators",
+		"ro": "💤 Fara alti administratori"
+	},
+	"admin_list": {
+		"ru": "📜 <b>Список администраторов:</b>\n\n",
+		"en": "📜 <b>List of administrators:</b>\n\n",
+		"ro": "📜 <b>Lista administratorilor:</b>\n\n"
+	},
+	"users_list": {
+		"ru": "📜 <b>Количество пользователей:</b>\n\n",
+		"en": "📜 <b>Number of users:</b>\n\n",
+		"ro": "📜 <b>Număr de utilizatori:</b>\n\n"
+	},
+	"users_amount": {
+		"ru": "📊 Общее количество",
+		"en": "📊 Total",
+		"ro": "📊 Total"
+	},
+	"manufacturer_empty": {
+		"ru": "💤 Нет производителей",
+		"en": "💤 No manufacturers",
+		"ro": "💤 Fara producatori"
+	},
+	"manufacturer_list": {
+		"ru": "📜 <b>Список производителей:</b>\n\n",
+		"en": "📜 <b>List of manufacturers:</b>\n\n",
+		"ro": "📜 <b>Lista producatorilor:</b>\n\n"
+	},
+	"orders_empty": {
+		"ru": "💤 Нет заказов",
+		"en": "💤 No orders",
+		"ro": "💤 Fara comenzi"
+	},
+	"orders_list": {
+		"ru": "📜 <b>Список заказов:</b>\n\n",
+		"en": "📜 <b>List of orders:</b>\n\n",
+		"ro": "📜 <b>Lista comenzilor:</b>\n\n"
+	},
+
+	"admin_add_username": {
+		"ru": "✏️ Введите Username:",
+		"en": "✏️ Enter Username:",
+		"ro": "✏️ Introduceți Username-ul:"
+	},
+	"admin_add_id": {
+		"ru": "✏️ Введите ID:",
+		"en": "✏️ Enter ID:",
+		"ro": "✏️ Introduceți ID-ul:"
+	},
+	"admin_add_success": {
+		"ru": "✅ Админ успешно добавлен!",
+		"en": "✅ Admin added successfully!",
+		"ro": "✅ Adminul adăugat cu succes!"
+	},
+	"admin_add_unknown": {
+		"ru": "❔ Админ уже в базе данных.",
+		"en": "❔ Admin is already in the database.",
+		"ro": "❔ Administratorul este deja în baza de date."
+	},
+
+	"admin_remove_id": {
+		"ru": "🔍 Введите ID Админа, которого хотите удалить:",
+		"en": "🔍 Enter the ID of the Admin you want to remove:",
+		"ro": "🔍 Introduceți ID-ul administratorului pe care doriți să îl eliminați:"
+	},
+	"admin_remove_success": {
+		"ru": "✅ Админ успешно удален!",
+		"en": "✅ Admin successfully deleted!",
+		"ro": "✅ Administratorul a fost șters cu succes!"
+	},
+	"admin_remove_unknown": {
+		"ru": "❔ Админ не найден в базе данных.",
+		"en": "❔ Admin not found in database.",
+		"ro": "❔ Administratorul nu a fost găsit în baza de date."
+	},
+
+	"admin_edit_id_username": {
+		"ru": "🔍 Введите ID или Username:",
+		"en": "🔍 Enter ID or Username:",
+		"ro": "🔍 Introduceți ID sau Username:"
+	},
+	"admin_edit_unknown": {
+		"ru": "❔ Админ не найден\n",
+		"en": "❔ Admin not found\n",
+		"ro": "❔ Adminul nu a fost găsit\n"
+	},
+	"admin_edit_success": {
+		"ru": "✅ Админ успешно обновлен!",
+		"en": "✅ Admin updated successfully!",
+		"ro": "✅ Adminul a fost actualizat cu succes!"
+	},
+
+	"stock_add_name": {
+		"ru": "✏️ Название товара:",
+		"en": "✏️ Product Name:",
+		"ro": "✏️ Numele produsului:"
+	},
+	"stock_add_amount": {
+		"ru": "✏️ Количество:",
+		"en": "✏️ Amount:",
+		"ro": "✏️ Cantitatea:"
+	},
+	"stock_add_price": {
+		"ru": "✏️ Цена:",
+		"en": "✏️ Price:",
+		"ro": "✏️ Preț:"
+	},
+	"stock_add_volume": {
+		"ru": "✏️ Объем: \n\n (Если это не жидкость, нажмите на кнопку внизу)",
+		"en": "✏️ Volume: \n\n (If it's not liquid, click on the button below)",
+		"ro": "✏️ Volum: \n\n (Dacă nu este lichid, faceți clic pe butonul de mai jos)"
+	},
+	"stock_add_description": {
+		"ru": "✏️ Описание:",
+		"en": "✏️ Description:",
+		"ro": "✏️ Descriere:"
+	},
+	"stock_add_manufacturer": {
+		"ru": "✏️ Выберите производителя:",
+		"en": "✏️ Choose Manufacturer:",
+		"ro": "✏️ Alegeti producator:"
+	},
+	"stock_add_url": {
+		"ru": "✏️ Изображение:",
+		"en": "✏️ Image:",
+		"ro": "✏️ Imagine:"
+	},
+	"stock_add_success": {
+		"ru": "✅ Товар успешно добавлен!",
+		"en": "✅ Product added successfully!",
+		"ro": "✅ Produsul a fost adăugat cu succes!"
+	},
+
+	"stock_remove_code": {
+		"ru": "🔍 Введите артикул товара, который хотите удалить:",
+		"en": "🔍 Enter the SKU of the product you want to remove:",
+		"ro": "🔍 Introduceți codul SKU al produsului pe care doriți să îl ștergeți:"
+	},
+	"stock_remove_success": {
+		"ru": "✅ Товар успешно удален!",
+		"en": "✅ Product removed successfully!",
+		"ro": "✅ Produsul a fost șters cu succes!"
+	},
+	"stock_remove_unknown": {
+		"ru": "❔ Товар не найден в базе данных.",
+		"en": "❔ Product not found in the database.",
+		"ro": "❔ Produsul nu a fost găsit în baza de date."
+	},
+
+	"stock_edit_code": {
+		"ru": "🔍 Введите артикул товара для редактирования:",
+		"en": "🔍 Enter the product SKU to edit:",
+		"ro": "🔍 Introduceți codul SKU al produsului pentru a edita:"
+	},
+	"stock_edit_new_url": {
+		"ru": "🖼 Отправьте фото:",
+		"en": "🖼 Submit a photo:",
+		"ro": "🖼 Trimite o fotografie:"
+	},
+	"stock_edit_unknown": {
+		"ru": "❔ Товар не найден\n",
+		"en": "❔ Product not found\n",
+		"ro": "❔ Produsul nu a fost găsit\n"
+	},
+	"stock_edit_success": {
+		"ru": "✅ Товар успешно обновлен!",
+		"en": "✅ Product updated successfully!",
+		"ro": "✅ Produsul a fost actualizat cu succes!"
+	},
+	"stock_name": {
+		"ru": "📦 Название",
+		"en": "📦 Name",
+		"ro": "📦 Nume"
+	},
+	"stock_price": {
+		"ru": "💰 Цена",
+		"en": "💰 Price",
+		"ro": "💰 Preț"
+	},
+	"stock_code": {
+		"ru": "🏷 Артикул",
+		"en": "🏷 SKU",
+		"ro": "🏷 SKU"
+	},
+	"stock_amount": {
+		"ru": "📈 Количество",
+		"en": "📈 Amount",
+		"ro": "📈 Cantitate"
+	},
+	"stock_manufacturer": {
+		"ru": "🔨 Производитель",
+		"en": "🔨 Manufacturer",
+		"ro": "🔨 Producător"
+	},
+
+	"user_edit_id_username": {
+		"ru": "🔍 Введите ID или Username:",
+		"en": "🔍 Enter ID or Username:",
+		"ro": "🔍 Introduceți ID sau Username:"
+	},
+	"user_edit_unknown": {
+		"ru": "❔ Пользователь не найден\n",
+		"en": "❔ User not found\n",
+		"ro": "❔ Utilizatorul nu a fost găsit\n"
+	},
+	"user_edit_success": {
+		"ru": "✅ Пользователь успешно обновлен!",
+		"en": "✅ User updated successfully!",
+		"ro": "✅ Utilizatorul a fost actualizat cu succes!"
+	},
+
+	"manufacturer_add_name": {
+		"ru": "✏️ Название производителя:",
+		"en": "✏️ Manufacturer Name:",
+		"ro": "✏️ Numele producatorului:"
+	},
+	"manufacturer_add_country": {
+		"ru": "✏️ Страна производителя:",
+		"en": "✏️ Manufacturer country:",
+		"ro": "✏️ Țara producătorului:"
+	},
+	"manufacturer_add_description": {
+		"ru": "✏️ Описание производителя:",
+		"en": "✏️ Manufacturer Description:",
+		"ro": "✏️ Descrierea producatorului:"
+	},
+	"manufacturer_add_success": {
+		"ru": "✅ Производитель успешно добавлен!",
+		"en": "✅ Manufacturer successfully added!",
+		"ro": "✅ Producătorul a fost adăugat cu succes!"
+	},
+
+	"manufacturer_remove_name": {
+		"ru": "🔍 Выберите Производителя:",
+		"en": "🔍 Select Manufacturer:",
+		"ro": "🔍 Selectați Producător:"
+	},
+	"manufacturer_remove_success": {
+		"ru": "✅ Производитель успешно удален!",
+		"en": "✅ The manufacturer has been successfully deleted!",
+		"ro": "✅ Producătorul a fost șters cu succes!"
+	},
+	"manufacturer_remove_unknown": {
+		"ru": "❔ Производитель не найден в базе данных.",
+		"en": "❔ The manufacturer was not found in the database.",
+		"ro": "❔ Producătorul nu a fost găsit în baza de date."
+	},
+
+	"manufacturer_edit_name": {
+		"ru": "🔍 Выберите Производителя:",
+		"en": "🔍 Select Manufacturer:",
+		"ro": "🔍 Selectați Producător:"
+	},
+	"manufacturer_edit_unknown": {
+		"ru": "❔ Производитель не найден\n",
+		"en": "❔ Manufacturer not found\n",
+		"ro": "❔ Producătorul nu a fost găsit\n"
+	},
+	"manufacturer_edit_success": {
+		"ru": "✅ Производитель успешно обновлен!",
+		"en": "✅ Manufacturer updated successfully!",
+		"ro": "✅ Producătorul a fost actualizat cu succes!"
+	},
+
+	"order_find_id": {
+		"ru": "🔍 Введите ID:",
+		"en": "🔍 Enter ID:",
+		"ro": "🔍 Introduceți ID:"
+	},
+	"order_find_unknown": {
+		"ru": "❔ Заказ не найден\n",
+		"en": "❔ Order not found\n",
+		"ro": "❔ Comanda nu a fost găsită\n"
+	},
+
+	"order_edit_id": {
+		"ru": "🔍 Введите ID:",
+		"en": "🔍 Enter ID:",
+		"ro": "🔍 Introduceți ID:"
+	},
+	"order_edit_unknown": {
+		"ru": "❔ Заказ не найден\n",
+		"en": "❔ Order not found\n",
+		"ro": "❔ Comanda nu a fost găsită\n"
+	},
+	"order_edit_success": {
+		"ru": "✅ Заказ успешно обновлен!",
+		"en": "✅ Order updated successfully!",
+		"ro": "✅ Comanda a fost actualizată cu succes!"
+	},
+
+	"order_remove_id": {
+		"ru": "🔍 Введите ID заказа, который хотите удалить:",
+		"en": "🔍 Enter the order ID you want to delete:",
+		"ro": "🔍 Introduceți ID-ul comenzii pe care doriți să îl ștergeți:"
+	},
+	"order_remove_success": {
+		"ru": "✅ Заказ успешно удален!",
+		"en": "✅ Order successfully deleted!",
+		"ro": "✅ Comanda a fost ștearsă cu succes!"
+	},
+	"order_remove_unknown": {
+		"ru": "❔ Заказ не найден в базе данных.",
+		"en": "❔ The order was not found in the database.",
+		"ro": "❔ Comanda nu a fost găsită în baza de date."
+	},
+
+	"flavours_empty": {
+		"ru": "💤 Нет вкусов",
+		"en": "💤 No flavors",
+		"ro": "💤 Nu arome"
+	},
+	"flavours_list": {
+		"ru": "📜 <b>Список вкусов:</b>\n\n",
+		"en": "📜 <b>List of flavors:</b>\n\n",
+		"ro": "📜 <b>Lista de arome:</b>\n\n"
+	},
+
+	"stock_add_flavour_code": {
+		"ru": "🔍 Введите артикул товара, которому хотите добавить вкус:",
+		"en": "🔍 Enter the article number of the product you want to add flavor:",
+		"ro": "🔍 Introduceți numărul articolului produsului căruia doriți să adăugați aromă:"
+	},
+	"stock_add_flavour_name": {
+		"ru": "✏️ Название вкуса:",
+		"en": "✏️ Flavor name:",
+		"ro": "✏️ Numele aromei:"
+	},
+	"stock_add_flavour_gradient1": {
+		"ru": "🎨 Цвет градиента 1:",
+		"en": "🎨 Gradient color 1:",
+		"ro": "🎨 Culoare gradient 1:"
+	},
+	"stock_add_flavour_gradient2": {
+		"ru": "🎨 Цвет градиента 2:",
+		"en": "🎨 Gradient color 2:",
+		"ro": "🎨 Culoare gradient 2:"
+	},
+	"stock_add_flavour_success": {
+		"ru": "✅ Вкус успешно добавлен!",
+		"en": "✅ Flavor successfully added!",
+		"ro": "✅ Aromă adăugată cu succes!"
+	},
+
+	"stock_remove_flavour_code": {
+		"ru": "🔍 Введите артикул товара, у которого хотите удалить вкус:",
+		"en": "🔍 Enter the article number of the product you want to remove the flavor from:",
+		"ro": "🔍 Introduceți numărul de articol al produsului din care doriți să eliminați aroma:"
+	},
+	"stock_remove_selected_flavour": {
+		"ru": "🔍 Выберите вкус, который хотите удалить:",
+		"en": "🔍 Select the flavor you want to remove:",
+		"ro": "🔍 Selectați aroma pe care doriți să o eliminați:"
+	},
+	"stock_remove_flavour_success": {
+		"ru": "✅ Вкус успешно удален!",
+		"en": "✅ Flavor successfully deleted!",
+		"ro": "✅ Aromă a fost ștearsă cu succes!"
+	},
+
+	"edit_flavour_select": {
+		"ru": "Выберите поле, которое вы хотите отредактировать:",
+		"en": "Select the field you want to edit:",
+		"ro": "Selectați câmpul pe care doriți să-l editați:"
+	},
+	"flavour": {
+		"ru": "👅 Вкус",
+		"en": "👅 Flavor",
+		"ro": "👅 Aromă"
+	},
+	"gradient1": {
+		"ru": "🎨 Цвет градиента 1:",
+		"en": "🎨 Gradient color 1:",
+		"ro": "🎨 Culoare gradient 1:"
+	},
+	"gradient2": {
+		"ru": "🎨 Цвет градиента 2:",
+		"en": "🎨 Gradient color 2:",
+		"ro": "🎨 Culoare gradient 2:"
+	},
+	"amount": {
+		"ru": "🧮 Количество:",
+		"en": "🧮 Amount:",
+		"ro": "🧮 Cantitatea:"
+	},
+
+	"promo_none": {
+		"ru": "💤 У вас нет промокодов.",
+		"en": "💤 You don't have promo codes.",
+		"ro": "💤 Nu aveți coduri promoționale."
+	},
+	"promo_empty": {
+		"ru": "💤 Нет промокодов",
+		"en": "💤 No promo codes",
+		"ro": "💤 Fără coduri promoționale"
+	},
+	"promo_show": {
+		"ru": "📜 <b>Ваши Промокоды:</b>",
+		"en": "📜 <b>Your Promo Codes:</b>",
+		"ro": "📜 <b>Codurile dvs. promoționale:</b>"
+	},
+	"promo_show_done": {
+		"ru": "📜 <b>Завершенные Промокоды:</b>",
+		"en": "📜 <b>Completed Promo Codes:</b>",
+		"ro": "📜 <b>Coduri promoționale completate:</b>"
+	},
+
+	"create_promo_name": {
+		"ru": "✏️ Введите название Промокода:",
+		"en": "✏️ Enter the name of the Promo Code:",
+		"ro": "✏️ Introduceți numele codului promoțional:"
+	},
+	"create_promo_success": {
+		"ru": "✅ Промокод успешно создан!",
+		"en": "✅ Promo code has been successfully created!",
+		"ro": "✅ Codul promoțional a fost creat cu succes!"
+	},
+
+	"delete_promo_name": {
+		"ru": "🔍 Выберите Промокод, который хотите удалить:",
+		"en": "🔍 Select the promo code you want to remove:",
+		"ro": "🔍 Selectați codul promoțional pe care doriți să îl eliminați:"
+	},
+	"delete_promo_success": {
+		"ru": "✅ Промокод успешно удален!",
+		"en": "✅ Promo code has been successfully removed!",
+		"ro": "✅ Codul promoțional a fost eliminat cu succes!"
+	},
+
+	"btn_back": {
+		"ru": "Назад",
+		"en": "Back",
+		"ro": "Înapoi"
+	},
+	"btn_web_app": {
+		"ru": "Заказать",
+		"en": "Order",
+		"ro": "Comanda"
+	},
+	"btn_profile": {
+		"ru": "Профиль",
+		"en": "Profile",
+		"ro": "Profil"
+	},
+	"btn_language": {
+		"ru": "Язык",
+		"en": "Language",
+		"ro": "Limba"
+	},
+	"btn_about": {
+		"ru": "О нас",
+		"en": "About Us",
+		"ro": "Despre Noi"
+	},
+	"btn_admin": {
+		"ru": "Админ",
+		"en": "Admin",
+		"ro": "Admin"
+	},
+	"btn_order": {
+		"ru": "Заказ",
+		"en": "Order",
+		"ro": "Ordin"
+	},
+	"btn_promo": {
+		"ru": "Промокоды",
+		"en": "Promo codes",
+		"ro": "Coduri promoționale"
+	},
+	"btn_us": {
+		"ru": "🇺🇸 Английский 🇺🇸",
+		"en": "🇺🇸 English 🇺🇸",
+		"ro": "🇺🇸 Engleză 🇺🇸"
+	},
+	"btn_ru": {
+		"ru": "🇷🇺 Русский 🇷🇺",
+		"en": "🇷🇺 Russian 🇷🇺",
+		"ro": "🇷🇺 Rusă 🇷🇺"
+	},
+	"btn_ro": {
+		"ru": "🇷🇴 Румынский 🇷🇴",
+		"en": "🇷🇴 Romanian 🇷🇴",
+		"ro": "🇷🇴 Română 🇷🇴"
+	},
+	"btn_stock": {
+		"ru": "Склад",
+		"en": "Stock",
+		"ro": "Stoc"
+	},
+	"btn_manufacturer": {
+		"ru": "Производители",
+		"en": "Manufacturers",
+		"ro": "Producători"
+	},
+	"btn_users": {
+		"ru": "Пользователи",
+		"en": "Users",
+		"ro": "Utilizatori"
+	},
+	"btn_orders": {
+		"ru": "Заказы",
+		"en": "Orders",
+		"ro": "Comenzi"
+	},
+	"btn_admins": {
+		"ru": "Админка",
+		"en": "Admin",
+		"ro": "Admin"
+	},
+	"btn_download": {
+		"ru": "💾 Скачать",
+		"en": "💾 Download",
+		"ro": "💾 Descarca"
+	},
+	"btn_find": {
+		"ru": "Найти",
+		"en": "Find",
+		"ro": "Găsi"
+	},
+	"btn_edit": {
+		"ru": "Редактировать",
+		"en": "Edit",
+		"ro": "Editați"
+	},
+	"btn_add": {
+		"ru": "Добавить",
+		"en": "Add",
+		"ro": "Adaugă"
+	},
+	"btn_remove": {
+		"ru": "Удалить",
+		"en": "Remove",
+		"ro": "Eliminați"
+	},
+	"btn_add_flavour": {
+		"ru": "✅ Вкус",
+		"en": "✅ Flavor",
+		"ro": "✅ Aromă"
+	},
+	"btn_remove_flavour": {
+		"ru": "❌ Вкус",
+		"en": "❌ Flavor",
+		"ro": "❌ Aromă"
+	},
+	"btn_edit_flavour": {
+		"ru": "📝 Редактировать Вкус",
+		"en": "📝 Edit Flavor",
+		"ro": "📝 Editați Aromă"
+	},
+	"btn_create": {
+		"ru": "Создать",
+		"en": "Create",
+		"ro": "Crea"
+	},
+	"btn_delete": {
+		"ru": "Удалить",
+		"en": "Delete",
+		"ro": "Șterge"
+	}
+}
