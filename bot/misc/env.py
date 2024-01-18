@@ -1,10 +1,10 @@
 from os import environ
 
-# # DEV
-# from dotenv import load_dotenv
+# DEV
+from dotenv import load_dotenv
 
-# load_dotenv()
-# # DEV
+load_dotenv()
+# DEV
 
 
 class TgKeys:
