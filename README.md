@@ -57,35 +57,30 @@ python run.py
 
 ![mobile_Smoke-Lab_user](./preview/mobile_Smoke-Lab_user.gif)
 
-<div style="display:flex">
-<img src="./preview/mobile_smoke-lab-bot_admin_1.jpg" style="width:50%">
-<img src="./preview/mobile_smoke-lab-bot_admin_1.jpg" style="width:50%">
-</div>
-
 **Main Page, languages, about us:**
-![mobile_smoke-lab-bot_user_1](./preview/mobile_smoke-lab-bot_user_1.jpg)
-![mobile_smoke-lab-bot_user_2](./preview/mobile_smoke-lab-bot_user_2.jpg)
-![mobile_smoke-lab-bot_user_3](./preview/mobile_smoke-lab-bot_user_3.jpg)
-![mobile_smoke-lab-bot_user_4](./preview/mobile_smoke-lab-bot_user_4.jpg)
+<img src="./preview/mobile_smoke-lab-bot_user_1.jpg" style="width:45%">
+<img src="./preview/mobile_smoke-lab-bot_user_2.jpg" style="width:45%">
+<img src="./preview/mobile_smoke-lab-bot_user_3.jpg" style="width:45%">
+<img src="./preview/mobile_smoke-lab-bot_user_4.jpg" style="width:45%">
 
 **Profile, promocodes, current order:**
-![mobile_smoke-lab-bot_user_5](./preview/mobile_smoke-lab-bot_user_5.jpg)
-![mobile_smoke-lab-bot_user_6](./preview/mobile_smoke-lab-bot_user_6.jpg)
-![mobile_smoke-lab-bot_user_7](./preview/mobile_smoke-lab-bot_user_7.jpg)
+<img src="./preview/mobile_smoke-lab-bot_user_5.jpg" style="width:45%">
+<img src="./preview/mobile_smoke-lab-bot_user_6.jpg" style="width:45%">
+<img src="./preview/mobile_smoke-lab-bot_user_7.jpg" style="width:45%">
 
 #### Admin Panel
 
 ![mobile_Smoke-Lab_admin](./preview/mobile_Smoke-Lab_admin.gif)
-![mobile_smoke-lab-bot_admin_1](./preview/mobile_smoke-lab-bot_admin_1.jpg)
+<img src="./preview/mobile_smoke-lab-bot_admin_1.jpg" style="width:45%">
 
 **Stock management, Orders management, finished promocodes:**
-![mobile_smoke-lab-bot_admin_2](./preview/mobile_smoke-lab-bot_admin_2.jpg)
-![mobile_smoke-lab-bot_admin_3](./preview/mobile_smoke-lab-bot_admin_3.jpg)
-![mobile_smoke-lab-bot_admin_4](./preview/mobile_smoke-lab-bot_admin_4.jpg)
+<img src="./preview/mobile_smoke-lab-bot_admin_2.jpg" style="width:45%">
+<img src="./preview/mobile_smoke-lab-bot_admin_3.jpg" style="width:45%">
+<img src="./preview/mobile_smoke-lab-bot_admin_4.jpg" style="width:45%">
 
 **Statistics and user editing, Admin privileges management:**
-![mobile_smoke-lab-bot_admin_5](./preview/mobile_smoke-lab-bot_admin_5.jpg)
-![mobile_smoke-lab-bot_admin_6](./preview/mobile_smoke-lab-bot_admin_6.jpg)
+<img src="./preview/mobile_smoke-lab-bot_admin_5.jpg" style="width:45%">
+<img src="./preview/mobile_smoke-lab-bot_admin_6.jpg" style="width:45%">
 
 ### PC
 
@@ -94,29 +89,29 @@ python run.py
 ![pc_Smoke-Lab_user](./preview/pc_Smoke-Lab_user.gif)
 
 **Main Page, languages, about us:**
-![pc_smoke-lab-bot_user_1](./preview/pc_smoke-lab-bot_user_1.png)
-![pc_smoke-lab-bot_user_2](./preview/pc_smoke-lab-bot_user_2.png)
-![pc_smoke-lab-bot_user_3](./preview/pc_smoke-lab-bot_user_3.png)
-![pc_smoke-lab-bot_user_4](./preview/pc_smoke-lab-bot_user_4.png)
+<img src="./preview/pc_smoke-lab-bot_user_1.png" style="width:45%">
+<img src="./preview/pc_smoke-lab-bot_user_2.png" style="width:45%">
+<img src="./preview/pc_smoke-lab-bot_user_3.png" style="width:45%">
+<img src="./preview/pc_smoke-lab-bot_user_4.png" style="width:45%">
 
 **Profile, promocodes, current order:**
-![pc_smoke-lab-bot_user_5](./preview/pc_smoke-lab-bot_user_5.png)
-![pc_smoke-lab-bot_user_6](./preview/pc_smoke-lab-bot_user_6.png)
-![pc_smoke-lab-bot_user_7](./preview/pc_smoke-lab-bot_user_7.png)
+<img src="./preview/pc_smoke-lab-bot_user_5.png" style="width:45%">
+<img src="./preview/pc_smoke-lab-bot_user_6.png" style="width:45%">
+<img src="./preview/pc_smoke-lab-bot_user_7.png" style="width:45%">
 
 #### Admin Panel
 
 ![pc_Smoke-Lab_admin](./preview/pc_Smoke-Lab_admin.gif)
-![pc_smoke-lab-bot_admin_1](./preview/pc_smoke-lab-bot_admin_1.png)
+<img src="./preview/pc_smoke-lab-bot_admin_1.png" style="width:45%">
 
 **Stock management, Orders management, finished promocodes:**
-![pc_smoke-lab-bot_admin_2](./preview/pc_smoke-lab-bot_admin_2.png)
-![pc_smoke-lab-bot_admin_3](./preview/pc_smoke-lab-bot_admin_3.png)
-![pc_smoke-lab-bot_admin_4](./preview/pc_smoke-lab-bot_admin_4.png)
+<img src="./preview/pc_smoke-lab-bot_admin_2.png" style="width:45%">
+<img src="./preview/pc_smoke-lab-bot_admin_3.png" style="width:45%">
+<img src="./preview/pc_smoke-lab-bot_admin_4.png" style="width:45%">
 
 **Statistics and user editing, Admin privileges management:**
-![pc_smoke-lab-bot_admin_5](./preview/pc_smoke-lab-bot_admin_5.png)
-![pc_smoke-lab-bot_admin_6](./preview/pc_smoke-lab-bot_admin_6.png)
+<img src="./preview/pc_smoke-lab-bot_admin_5.png" style="width:45%">
+<img src="./preview/pc_smoke-lab-bot_admin_6.png" style="width:45%">
 
 ## Contributing
 
