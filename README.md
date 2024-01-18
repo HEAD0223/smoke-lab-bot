@@ -1,4 +1,4 @@
-# Smoke Lab (**Bot**) · Complete
+# Smoke Lab (**Bot**)
 
 ![Bot](https://img.shields.io/badge/Bot-Smoke_Lab-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Complete-yellow)
@@ -50,6 +50,48 @@ python run.py
 ```
 
 ## Media
+
+### Mobile
+
+User
+![mobile_Smoke-Lab_user](./preview/mobile_Smoke-Lab_user.gif)
+![mobile_smoke-lab-bot_user_1](./preview/mobile_smoke-lab-bot_user_1.jpg)
+![mobile_smoke-lab-bot_user_2](./preview/mobile_smoke-lab-bot_user_2.jpg)
+![mobile_smoke-lab-bot_user_3](./preview/mobile_smoke-lab-bot_user_3.jpg)
+![mobile_smoke-lab-bot_user_4](./preview/mobile_smoke-lab-bot_user_4.jpg)
+![mobile_smoke-lab-bot_user_5](./preview/mobile_smoke-lab-bot_user_5.jpg)
+![mobile_smoke-lab-bot_user_6](./preview/mobile_smoke-lab-bot_user_6.jpg)
+![mobile_smoke-lab-bot_user_7](./preview/mobile_smoke-lab-bot_user_7.jpg)
+
+Admin Panel
+![mobile_Smoke-Lab_admin](./preview/mobile_Smoke-Lab_admin.gif)
+![mobile_smoke-lab-bot_admin_1](./preview/mobile_smoke-lab-bot_admin_1.jpg)
+![mobile_smoke-lab-bot_admin_2](./preview/mobile_smoke-lab-bot_admin_2.jpg)
+![mobile_smoke-lab-bot_admin_3](./preview/mobile_smoke-lab-bot_admin_3.jpg)
+![mobile_smoke-lab-bot_admin_4](./preview/mobile_smoke-lab-bot_admin_4.jpg)
+![mobile_smoke-lab-bot_admin_5](./preview/mobile_smoke-lab-bot_admin_5.jpg)
+![mobile_smoke-lab-bot_admin_6](./preview/mobile_smoke-lab-bot_admin_6.jpg)
+
+### PC
+
+User
+![pc_Smoke-Lab_user](./preview/pc_Smoke-Lab_user.gif)
+![pc_smoke-lab-bot_user_1](./preview/pc_smoke-lab-bot_user_1.png)
+![pc_smoke-lab-bot_user_2](./preview/pc_smoke-lab-bot_user_2.png)
+![pc_smoke-lab-bot_user_3](./preview/pc_smoke-lab-bot_user_3.png)
+![pc_smoke-lab-bot_user_4](./preview/pc_smoke-lab-bot_user_4.png)
+![pc_smoke-lab-bot_user_5](./preview/pc_smoke-lab-bot_user_5.png)
+![pc_smoke-lab-bot_user_6](./preview/pc_smoke-lab-bot_user_6.png)
+![pc_smoke-lab-bot_user_7](./preview/pc_smoke-lab-bot_user_7.png)
+
+Admin Panel
+![pc_Smoke-Lab_admin](./preview/pc_Smoke-Lab_admin.gif)
+![pc_smoke-lab-bot_admin_1](./preview/pc_smoke-lab-bot_admin_1.png)
+![pc_smoke-lab-bot_admin_2](./preview/pc_smoke-lab-bot_admin_2.png)
+![pc_smoke-lab-bot_admin_3](./preview/pc_smoke-lab-bot_admin_3.png)
+![pc_smoke-lab-bot_admin_4](./preview/pc_smoke-lab-bot_admin_4.png)
+![pc_smoke-lab-bot_admin_5](./preview/pc_smoke-lab-bot_admin_5.png)
+![pc_smoke-lab-bot_admin_6](./preview/pc_smoke-lab-bot_admin_6.png)
 
 ## Contributing
 
