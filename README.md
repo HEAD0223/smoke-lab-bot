@@ -56,6 +56,7 @@ python run.py
 #### User
 
 ![mobile_Smoke-Lab_user](./preview/mobile_Smoke-Lab_user.gif)
+![test]<img src="./preview/mobile_smoke-lab-bot_admin_1.jpg" width="500" height="600">
 
 **Main Page, languages, about us:**
 ![mobile_smoke-lab-bot_user_1](./preview/mobile_smoke-lab-bot_user_1.jpg)
