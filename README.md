@@ -53,24 +53,21 @@ python run.py
 
 ### Mobile
 
-#### User
-
 ![mobile_Smoke-Lab_user](./preview/mobile_Smoke-Lab_user.gif)
 
 **Main Page, languages, about us:**  
 <img src="./preview/mobile_smoke-lab-bot_user_1.jpg" style="width:45%">
+<img src="./preview/mobile_smoke-lab-bot_user_4.jpg" style="width:45%">
 <img src="./preview/mobile_smoke-lab-bot_user_2.jpg" style="width:45%">
 <img src="./preview/mobile_smoke-lab-bot_user_3.jpg" style="width:45%">
-<img src="./preview/mobile_smoke-lab-bot_user_4.jpg" style="width:45%">
 
 **Profile, promocodes, current order:**  
 <img src="./preview/mobile_smoke-lab-bot_user_5.jpg" style="width:45%">
 <img src="./preview/mobile_smoke-lab-bot_user_6.jpg" style="width:45%">
 <img src="./preview/mobile_smoke-lab-bot_user_7.jpg" style="width:45%">
 
-#### Admin Panel
-
-![mobile_Smoke-Lab_admin](./preview/mobile_Smoke-Lab_admin.gif)
+**Admin Panel**  
+![mobile_Smoke-Lab_admin](./preview/mobile_Smoke-Lab_admin.gif)  
 <img src="./preview/mobile_smoke-lab-bot_admin_1.jpg" style="width:45%">
 
 **Stock management, Orders management, finished promocodes:**  
@@ -84,24 +81,21 @@ python run.py
 
 ### PC
 
-#### User
-
 ![pc_Smoke-Lab_user](./preview/pc_Smoke-Lab_user.gif)
 
 **Main Page, languages, about us:**  
 <img src="./preview/pc_smoke-lab-bot_user_1.png" style="width:45%">
+<img src="./preview/pc_smoke-lab-bot_user_4.png" style="width:45%">
 <img src="./preview/pc_smoke-lab-bot_user_2.png" style="width:45%">
 <img src="./preview/pc_smoke-lab-bot_user_3.png" style="width:45%">
-<img src="./preview/pc_smoke-lab-bot_user_4.png" style="width:45%">
 
 **Profile, promocodes, current order:**  
 <img src="./preview/pc_smoke-lab-bot_user_5.png" style="width:45%">
 <img src="./preview/pc_smoke-lab-bot_user_6.png" style="width:45%">
 <img src="./preview/pc_smoke-lab-bot_user_7.png" style="width:45%">
 
-#### Admin Panel
-
-![pc_Smoke-Lab_admin](./preview/pc_Smoke-Lab_admin.gif)
+**Admin Panel**  
+![pc_Smoke-Lab_admin](./preview/pc_Smoke-Lab_admin.gif)  
 <img src="./preview/pc_smoke-lab-bot_admin_1.png" style="width:45%">
 
 **Stock management, Orders management, finished promocodes:**  
