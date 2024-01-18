@@ -56,8 +56,11 @@ python run.py
 #### User
 
 ![mobile_Smoke-Lab_user](./preview/mobile_Smoke-Lab_user.gif)
+
+<div style="display:flex">
 <img src="./preview/mobile_smoke-lab-bot_admin_1.jpg" style="width:50%">
 <img src="./preview/mobile_smoke-lab-bot_admin_1.jpg" style="width:50%">
+</div>
 
 **Main Page, languages, about us:**
 ![mobile_smoke-lab-bot_user_1](./preview/mobile_smoke-lab-bot_user_1.jpg)
