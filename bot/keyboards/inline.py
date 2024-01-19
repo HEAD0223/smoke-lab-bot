@@ -6,7 +6,7 @@ from ..database.main import admin_list
 from ..misc.util import _
 from aiogram.types.web_app_info import WebAppInfo
 
-webAppUrl = "http://localhost:3000/"
+webAppUrl = "https://smoke-lab.netlify.app"
 
 
 def start_kb(user_id):
